@@ -4,8 +4,8 @@
 
 ### A modern, lightweight video downloader
 
-> **⚠️ Preview**
-> PHC-Vid is currently in active development. Features, performance, and the interface may change between releases.
+> **⚠️ Preview Version**
+> PHC-Vid is currently under active development. Features, performance, and the user interface may change in future releases.
 
 [**⬇ Download the Latest Release**](https://github.com/PHC-Team/PHC-Vid/releases/latest)
 
@@ -15,42 +15,52 @@
 
 ## ✨ Features
 
-- Modern and easy-to-use interface
-- Download videos by simply pasting a URL
-- Supports YouTube and many other websites through **yt-dlp**
-- Fast downloads
-- Lightweight and responsive
-- Automatic update support *(if applicable)*
+* Clean, modern, and easy-to-use interface
+* Download videos by simply pasting a URL
+* Supports YouTube and many other websites using **yt-dlp**
+* Fast and reliable downloads
+* Lightweight and responsive performance
+* Automatic update support *(when available)*
 
 ---
 
 ## 📦 System Requirements
 
-- Windows 10 or Windows 11
-- .NET Desktop Runtime (if required)
-- Internet connection
-- Approximately 50 MB of free disk space
+* Windows 10 or Windows 11
+* .NET Desktop Runtime *(if required)*
+* Active internet connection
+* Approximately 100 MB of available storage space
 
 ---
 
 ## 🚀 Installation
 
-1. Download the latest release.
-2. Run **PHC-Vid.Setup.exe**.
-3. Follow the installation wizard.
-4. Launch PHC-Vid.
+1. Download the latest release from the releases page.
+2. Extract the files if needed.
+3. Run **PHC-Vid.exe**.
+4. Start downloading your videos.
 
 ---
 
-## 📥 Using PHC-Vid
+## 📥 How to Use PHC-Vid
 
 1. Copy a video URL from a supported website.
-2. Open PHC-Vid.
-3. Paste the URL into the input box.
+2. Open **PHC-Vid**.
+3. Paste the URL into the input field.
 4. Click **Download**.
-5. Wait for the download to finish.
+5. Wait for the download to complete.
 
-Downloaded videos will be saved to your selected download folder.
+---
+
+## 🔜 Coming Soon
+
+Want to see what’s planned for future versions of PHC-Vid?
+
+Check out the upcoming features here:
+https://github.com/PHC-Team/PHC-Vid/blob/main/COMING-SOON.md
+
+You can also view recent changes and updates here:
+https://github.com/PHC-Team/PHC-Vid/blob/main/CHANGELOG.md
 
 ---
 
@@ -60,7 +70,7 @@ PHC-Vid is developed and maintained by **PHC-Team**.
 
 ### Third-Party Software
 
-- **yt-dlp** – Video extraction and download engine
+* **yt-dlp** — yt-dlp
 
 ---
 
