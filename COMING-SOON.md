@@ -4,6 +4,14 @@ PHC-Vid is actively being developed, with new features, and improvements on the 
 
 ---
 
+## Linux and macOS Support
+
+We are currently working on both Linux and macOS versions of this app. Developing and maintaining these platforms takes time, which means it also affects the pace of our other projects.
+
+Please note that when the Linux and macOS versions are released, they will not receive the same level of support as the Windows version. Our primary focus will remain on Windows, so updates, bug fixes, and new features may arrive later on Linux and macOS.
+
+---
+
 ## 🛠 UI Improvements
 
 We’re working on several improvements to the user interface. Future updates will include a dark mode option, along with general UI enhancements to create a more modern, clean, and user-friendly experience.
