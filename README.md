@@ -4,7 +4,7 @@
 
 ### A modern, lightweight video downloader
 
-> **⚠️ Preview Version**
+> **⚠️ Active Development**
 > PHC-Vid is currently under active development. Features, performance, and the user interface may change in future releases.
 
 [**⬇ Download the Latest Release**](https://github.com/PHC-Team/PHC-Vid/releases/latest)
@@ -71,6 +71,8 @@ PHC-Vid is developed and maintained by **PHC-Team**.
 ### Third-Party Software
 
 * **yt-dlp** — yt-dlp
+* **FFmpeg-Builds** — BtbN
+* **deno** — denoland
 
 ---
 
