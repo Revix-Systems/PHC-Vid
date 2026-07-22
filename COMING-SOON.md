@@ -4,6 +4,14 @@ PHC-Vid is actively being developed, with new features, and improvements on the 
 
 ---
 
+### Integrated Updater
+
+We’re developing an updater that will be built directly into PHC‑Vid mirroring the one used in PHC‑Portal. While the concept is straightforward, integrating it smoothly is a bit more involved than it first appears.
+
+In the meantime, you can still use the existing updater that simply redirects you to GitHub. It works fine until version 0.8.1, when we’ll introduce a fully integrated updater along with several other enhancements.
+
+---
+
 ## Linux and macOS Support
 
 We are currently working on both Linux and macOS versions of this app. Developing and maintaining these platforms takes time, which means it also affects the pace of our other projects.

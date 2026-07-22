@@ -36,9 +36,8 @@
 ## 🚀 Installation
 
 1. Download the latest release from the releases page.
-2. Extract the files if needed.
-3. Run **PHC-Vid.exe**.
-4. Start downloading your videos.
+2. Run **PHC-Vid.exe**.
+3. Start downloading your videos.
 
 ---
 
@@ -70,9 +69,9 @@ PHC-Vid is developed and maintained by **PHC-Team**.
 
 ### Third-Party Software
 
-* **yt-dlp** — yt-dlp
-* **FFmpeg-Builds** — BtbN
-* **deno** — denoland
+* yt-dlp - yt-dlp
+* FFmpeg-Builds - BtbN
+* deno - denoland
 
 ---
 
