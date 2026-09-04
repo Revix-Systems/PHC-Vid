@@ -4,8 +4,15 @@
 
 ### A modern, lightweight video downloader
 
-> **⚠️ Active Development**
-> PHC-Vid is currently under active development. Features, performance, and the user interface may change in future releases.
+> **⚠️ Development Discontinued**
+>
+> **PHC-Vid is no longer actively developed.**
+>
+> Development has been discontinued because a more advanced video downloader is now integrated directly into **Revix-Manager**, featuring an improved user interface, better performance, and additional functionality.
+>
+> PHC-Vid will remain available for existing users who still wish to use it. However, please be aware that **no further updates or maintenance are planned**. If the application stops working or encounters compatibility issues, support may not be available.
+>
+> For the best experience and continued development, users are **strongly encouraged to switch to Revix-Manager**.
 
 [**⬇ Download the Latest Release**](https://github.com/PHC-Team/PHC-Vid/releases/latest)
 
